@@ -22,7 +22,7 @@ h1 {
     margin-bottom: 5%;
 }
 
-.mainNumber {
+#mainNumber {
     display: flex;
     align-items: center;
     justify-content: center;
